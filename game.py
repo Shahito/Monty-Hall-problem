@@ -50,3 +50,6 @@ class Game:
         for d in self.doors:
             if d.is_chosen and d.hide_price: return True
         return False
+
+
+# 42795f536861 #
